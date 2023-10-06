@@ -1,0 +1,8 @@
+num1=input("Enter the num1\n")
+num2=input("Enter the num2\n")
+num1=int(num1)
+num2=int(num2)
+sum=print(num1+num2)
+difference=print(num1-num2)
+mul=print(num1*num2)
+div=print(num1/num2)
